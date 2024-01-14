@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 public class DashboardPage {
     //Test
-
+//re modify 2
     private WebDriver driver;
 
     private static final By DASHBOARD_ICON = By.xpath("//span[contains(text(), 'Dashboard')]");

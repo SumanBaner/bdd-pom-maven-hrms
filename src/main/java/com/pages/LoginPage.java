@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 public class LoginPage {
 
     //testing git
+    //re modify 2
     private WebDriver driver;
 
     private static final By USER_NAME = By.id("email");
